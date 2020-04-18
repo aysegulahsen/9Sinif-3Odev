@@ -36,7 +36,7 @@ Bulduğum ikinci dereceden denklem (x= konum, t=zaman, *x= at^2+b*t + c*) şu ş
 *x = -1.22*t^2 + 1.81*t + 3.92E-03* 
 
 
-Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (hiç değilse birkaç frame benim ölçümlerinden farklı olsun.) Kullandığınız Google Sheet için [buraya](link ver) link verin (Google Sheet herkese açık erişimli olsun.) 
+Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (hiç değilse birkaç frame benim ölçümlerinden farklı olsun.) Kullandığınız Google Sheet için [buraya](https://docs.google.com/spreadsheets/d/1Bm1fqbW9G9q64anzMzf71Q38uZ5zlx6EC1K2xdOzfqA/edit?usp=sharing) link verin (Google Sheet herkese açık erişimli olsun.) 
 
 a) Denkleminizi **buraya yazınız**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif? 
 b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? 
