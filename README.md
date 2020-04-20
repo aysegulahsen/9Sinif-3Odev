@@ -16,11 +16,9 @@ Aşağıdaki yönerge adımlarını lütfen uygulayın.
 | 7 (Başlangıç)| 0 |   0      |
 | 14    | 7/60     |   0.2    |
 | 18    | 11/60    |   0.295  |
-| 20 | 13/60 | 0.34 |
 | 23    | 16/60    |   0.4    |
 | 25    | 18/60    |   0.44   |
 | 28    | 21/60    |   0.49   |
-| 30 | 23/60 | 0.52 |
 | 33    | 26/60    |   0.55   |
 | 38    | 31/60    |   0.61   | 
 | 45    | 38/60    |   0.65   |
@@ -52,7 +50,7 @@ kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafi�
 
 2) Aynı Google Sheet'i kullanarak ivme verilerini Google Sheet'inize girin. (Bu sefer 7 tane ivme veriniz olacak.) İvme-zaman grafiğini çiziniz.
 
-3) İvme'yi ne buldunuz? Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz. 
+3) İvme'yi ne buldunuz? Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz. Cevabım 1,35(emin değilim) . Fnet=m*a
 
 # Bölüm 3 (Hala Beni Öldürmeyi Düşünmüyorsan)
 1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? Konumdaki ölçüm hatam sizce kaç cm'dir? 
